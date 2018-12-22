@@ -1,0 +1,9 @@
+# ~/Projects/dotfiles/.railsrc
+
+--database=postgresql
+--skip-action-cable
+--skip-coffee
+--skip-turbolinks
+--skip-test
+--skip-action-mailer
+--template=~/Projects/dotfiles/rails_template.rb
